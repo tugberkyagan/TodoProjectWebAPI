@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMblD45pTvsG+daYinu3B5q0NDN6xJ7hky8VLJ3gnIIjzvSWG7M2FOb+xD0rbLzftbgrCGaBq8IcUMJ90TF+wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Model\\FinalTodoProject.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugberk.yagan\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

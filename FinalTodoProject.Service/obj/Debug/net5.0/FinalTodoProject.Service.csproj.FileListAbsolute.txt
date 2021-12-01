@@ -1,0 +1,17 @@
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Service.deps.json
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Service.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\ref\FinalTodoProject.Service.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Service.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Data.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Model.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Data.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\bin\Debug\net5.0\FinalTodoProject.Model.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.csproj.AssemblyReference.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.AssemblyInfoInputs.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.AssemblyInfo.cs
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\ref\FinalTodoProject.Service.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Service\obj\Debug\net5.0\FinalTodoProject.Service.csproj.CopyComplete

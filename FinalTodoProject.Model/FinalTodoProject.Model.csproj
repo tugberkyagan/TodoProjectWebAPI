@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="SubTodoModels\ResponseModels" />
+      <Folder Include="TodoModels\ResponseModels" />
+      <Folder Include="UserModels\ResponseModels" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="10.3.4" />
+    </ItemGroup>
+
+</Project>

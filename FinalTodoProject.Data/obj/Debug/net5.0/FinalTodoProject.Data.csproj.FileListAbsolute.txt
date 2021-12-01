@@ -1,0 +1,15 @@
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\FinalTodoProject.Data.deps.json
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\FinalTodoProject.Data.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\ref\FinalTodoProject.Data.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\FinalTodoProject.Data.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\FinalTodoProject.Model.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\bin\Debug\net5.0\FinalTodoProject.Model.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.csproj.AssemblyReference.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.AssemblyInfoInputs.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.AssemblyInfo.cs
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\ref\FinalTodoProject.Data.dll
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.pdb
+C:\Users\tugberk.yagan\RiderProjects\FinalTodoProject\FinalTodoProject.Data\obj\Debug\net5.0\FinalTodoProject.Data.csproj.CopyComplete
