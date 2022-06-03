@@ -20,7 +20,7 @@ namespace FinalTodoProject.Data.TodoData
         }
         public async Task<GetTodoDataModel> GetTodoDataById(int id)
         {
-            var query = $"SELECT Id,Title,Description,IsDone,UserId FROM Todo WHERE Id = {id}";
+            var query = $"SELECT Id,Title,Description,IsDone,UserId,Progress FROM Todo WHERE Id = {id}";
 
             using var conn = _dbConnection.GetConnection();
 

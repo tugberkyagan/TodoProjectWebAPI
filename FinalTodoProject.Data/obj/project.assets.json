@@ -528,19 +528,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tugberk.yagan\\.nuget\\packages\\": {}
+    "C:\\Users\\tugbe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Data\\FinalTodoProject.Data.csproj",
+      "projectUniqueName": "C:\\Users\\tugbe\\Desktop\\TodoProjectWebAPI\\FinalTodoProject.Data\\FinalTodoProject.Data.csproj",
       "projectName": "FinalTodoProject.Data",
-      "projectPath": "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Data\\FinalTodoProject.Data.csproj",
-      "packagesPath": "C:\\Users\\tugberk.yagan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Data\\obj\\",
+      "projectPath": "C:\\Users\\tugbe\\Desktop\\TodoProjectWebAPI\\FinalTodoProject.Data\\FinalTodoProject.Data.csproj",
+      "packagesPath": "C:\\Users\\tugbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tugbe\\Desktop\\TodoProjectWebAPI\\FinalTodoProject.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tugberk.yagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tugbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -554,8 +554,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Model\\FinalTodoProject.Model.csproj": {
-              "projectPath": "C:\\Users\\tugberk.yagan\\RiderProjects\\FinalTodoProject\\FinalTodoProject.Model\\FinalTodoProject.Model.csproj"
+            "C:\\Users\\tugbe\\Desktop\\TodoProjectWebAPI\\FinalTodoProject.Model\\FinalTodoProject.Model.csproj": {
+              "projectPath": "C:\\Users\\tugbe\\Desktop\\TodoProjectWebAPI\\FinalTodoProject.Model\\FinalTodoProject.Model.csproj"
             }
           }
         }
@@ -594,7 +594,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

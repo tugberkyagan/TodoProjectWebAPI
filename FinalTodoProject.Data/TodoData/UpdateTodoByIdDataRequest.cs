@@ -21,7 +21,7 @@ namespace FinalTodoProject.Data.TodoData
 
         public async Task<bool> UpdateTodoById(InsertTodoDataModel model, int id)
         {
-            var query = $"UPDATE Todo SET Title = @Title, Description = @Description, IsDone = @IsDone, UserId = @UserId WHERE Id = {id}";
+            var query = $"UPDATE Todo SET Title = @Title, Description = @Description, IsDone = @IsDone, UserId = @UserId, Progress = @Progress WHERE Id = {id}";
 
             using var conn = _dbConnection.GetConnection();
 

@@ -64,7 +64,7 @@ namespace FinalTodoProject.Api.Controllers
             return await _deleteTodoByIdServiceRequest.DeleteTodoById(id);
         }
 
-        [HttpPut("update")]
+        [HttpPut("update/{id}")]
         public async Task<bool> UpdateTodoById([FromBody] InsertTodoDataModel model, int id)
         {
             return await _updateTodoByIdServiceRequest.UpdateTodoById(model, id);

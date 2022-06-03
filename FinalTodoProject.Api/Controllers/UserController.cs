@@ -27,6 +27,7 @@ namespace FinalTodoProject.Api.Controllers
             _getUserNameByTodoIsDoneServiceRequest = getUserNameByTodoIsDoneServiceRequest;
         }
 
+        // Endpoints
         [HttpGet("users")]
         public async Task<List<GetUserDataModel>> GetAllUsers()
         {
@@ -46,13 +47,13 @@ namespace FinalTodoProject.Api.Controllers
         }
 
         [HttpPost("insert")]
-        public async Task<bool> InsertUser(InsertUserDataModel model,CancellationToken cancellationToken)
+        public async Task<bool> InsertUser([FromBody] InsertUserDataModel model,CancellationToken cancellationToken)
         {
             return await _insertUserServiceRequest.InsertUser(model, cancellationToken);
         }
 
-        [HttpPut("update")]
-        public async Task<bool> UpdateUserById(InsertUserDataModel model, int id, CancellationToken cancellationToken)
+        [HttpPut("update/{id}")]
+        public async Task<bool> UpdateUserById([FromBody] InsertUserDataModel model, int id, CancellationToken cancellationToken)
         {
             return await _updateUserByIdServiceRequest.UpdateUserById(model, id, cancellationToken);
         }
